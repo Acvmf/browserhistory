@@ -1,0 +1,12 @@
+body{
+  background-color: black;
+  color: white;
+}
+
+#spot{
+  float: left;
+}
+
+p{
+  font-family: "PT Serif";
+}
